@@ -18,11 +18,16 @@ var adjectives = [
   "spotty",
   "hairy",
   "stinky",
-  "green",
-  "purple",
   "slimy",
   "crazy",
   "funny",
+  "brave",
+  "determined",
+  "creative",
+  "clever",
+  "tough",
+  "confident",
+  "ambitious",
 ];
 
 var noun1 = [
@@ -39,6 +44,9 @@ var noun1 = [
   "Mummy",
   "cat",
   "bottom",
+  "pirate",
+  "rocket",
+  "space",
 ];
 
 var verbs = [
@@ -68,14 +76,14 @@ var noun2 = [
   "a bogey.",
   "Grace's face.",
   "Sam's bottom.",
-  "a Play Station.",
+  "a PS5.",
   "some cheese.",
   "a sausage.",
   "CUSTARD!",
   "my tummy.",
   "cat food.",
   "cow poo.",
-  "a football.",
+  "a rollercoaster.",
 ];
 
 function getResult() {
