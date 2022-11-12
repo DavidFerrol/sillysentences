@@ -63,6 +63,7 @@ var verbs = [
   "is kicking",
   "smells like",
   "tastes like",
+  "is riding",
 ];
 
 var noun2 = [
@@ -71,18 +72,17 @@ var noun2 = [
   "an egg.",
   "a toilet.",
   "an octopus.",
-  "a tutu.",
   "a dragon.",
   "a bogey.",
-  "Grace's face.",
-  "Sam's bottom.",
+  "my face.",
+  "my bottom.",
   "a PS5.",
   "some cheese.",
   "a sausage.",
   "CUSTARD!",
   "my tummy.",
   "cat food.",
-  "cow poo.",
+  "cat poo.",
   "a rollercoaster.",
 ];
 
